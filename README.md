@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am [Cindy Liu](https://www.linkedin.com/in/cinnyb2/)
 
 <!--
 **cinnyb2/cinnyb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📖 I'm currently reading: OCaml Programming: Correct + Efficient + Beautiful
+
+🌱 I’m currently learning: Ruby and OCaml
