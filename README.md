@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📖 I'm currently reading: OCaml Programming: Correct + Efficient + Beautiful
-
-🌱 I’m currently learning: Ruby and OCaml
